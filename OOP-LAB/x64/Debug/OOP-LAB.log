@@ -1,0 +1,4 @@
+﻿  OOP-LAB.cpp
+C:\Users\user\Desktop\OOP-LAB\OOP-LAB.cpp(272,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\OOP-LAB\OOP-LAB.cpp(282,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOP-LAB.vcxproj -> C:\Users\user\Desktop\OOP-LAB\x64\Debug\OOP-LAB.exe
